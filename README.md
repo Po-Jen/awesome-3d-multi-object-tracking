@@ -14,6 +14,7 @@ A curated list of awesome 3DMOT code and resources.
 |:----:|:--------:|:---------:|:----:|:----------:|
 | [MOTBeyondPixels(ICRA 2018)](https://github.com/JunaidCS032/MOTBeyondPixels) | Leverages Geometry and Shape Cues for Online MOT. | MATLAB | [github](https://github.com/JunaidCS032/MOTBeyondPixels) | ![](https://img.shields.io/github/stars/JunaidCS032/MOTBeyondPixels.svg?style=social&label=Star&maxAge=2592000)|
 | [AB3DMOT(IROS 2020)](https://github.com/xinshuoweng/AB3DMOT) | A baseline method for 3DMOT with new metrics. | Python | [github](https://github.com/xinshuoweng/AB3DMOT) | ![](https://img.shields.io/github/stars/xinshuoweng/AB3DMOT.svg?style=social&label=Star&maxAge=2592000)|
+| [CenterPoint(2020)](https://github.com/tianweiy/CenterPoint) | 3D Object Detection and Tracking using center points in the bird-eye view. | Python | [github](https://github.com/tianweiy/CenterPoint) | ![](https://img.shields.io/github/stars/tianweiy/CenterPoint.svg?style=social&label=Star&maxAge=2592000)|
 
 ## [Datasets](#datasets)
 
@@ -24,17 +25,23 @@ A curated list of awesome 3DMOT code and resources.
 
 ## [Articles](#articles)
 
+### 2019
+
 * [3D Multi-Object Tracking: A Baseline and New Evaluation Metrics](https://arxiv.org/pdf/1907.03961v5.pdf)
 
-## [Other Awesome Lists](#awesome-grasping)
+### 2020
+
+* [Center-based 3D Object Detection and Tracking](https://arxiv.org/pdf/2006.11275.pdf)
+
+## [Other Awesome Lists](#awesome-3d-multi-object-tracking)
 
 * [Awesome 3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
 
-## [Contributing](#awesome-grasping)
+## [Contributing](#awesome-3d-multi-object-tracking)
 
 Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. If you spot any error, please feel free to report.
 
-## [License](#awesome-grasping)
+## [License](#awesome-3d-multi-object-tracking)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="drawing" width="48" height="48"/>
 
