@@ -14,6 +14,7 @@ A curated list of awesome 3DMOT code and resources.
 |:----:|:--------:|:---------:|:----:|:----------:|
 | [MOTBeyondPixels(ICRA 2018)](https://github.com/JunaidCS032/MOTBeyondPixels) | Leverages Geometry and Shape Cues for Online MOT. | MATLAB | [github](https://github.com/JunaidCS032/MOTBeyondPixels) | ![](https://img.shields.io/github/stars/JunaidCS032/MOTBeyondPixels.svg?style=social&label=Star&maxAge=2592000)|
 | [FANTrack(2019)](https://git.uwaterloo.ca/wise-lab/fantrack/-/tree/public_release/) |  | Python | [gitlab](https://git.uwaterloo.ca/wise-lab/fantrack/-/tree/public_release/) | |
+| [mahalanobis_3d_mot](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking) | Winner of nuScenes Tracking Challenge at NeurIPS 2019. | Python | [github](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking) | ![](https://img.shields.io/github/stars/eddyhkchiu/mahalanobis_3d_multi_object_tracking.svg?style=social&label=Star&maxAge=2592000)|
 | [AB3DMOT(IROS 2020)](https://github.com/xinshuoweng/AB3DMOT) | A baseline method for 3DMOT with new metrics. | Python | [github](https://github.com/xinshuoweng/AB3DMOT) | ![](https://img.shields.io/github/stars/xinshuoweng/AB3DMOT.svg?style=social&label=Star&maxAge=2592000)|
 | [CenterPoint(2020)](https://github.com/tianweiy/CenterPoint) | 3D Object Detection and Tracking using center points in the bird-eye view. | Python | [github](https://github.com/tianweiy/CenterPoint) | ![](https://img.shields.io/github/stars/tianweiy/CenterPoint.svg?style=social&label=Star&maxAge=2592000)|
 
