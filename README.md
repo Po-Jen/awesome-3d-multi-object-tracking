@@ -17,6 +17,8 @@ A curated list of awesome 3DMOT code and resources.
 | [mahalanobis_3d_mot](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking) | Winner of nuScenes Tracking Challenge at NeurIPS 2019. | Python | [github](https://github.com/eddyhkchiu/mahalanobis_3d_multi_object_tracking) | ![](https://img.shields.io/github/stars/eddyhkchiu/mahalanobis_3d_multi_object_tracking.svg?style=social&label=Star&maxAge=2592000)|
 | [AB3DMOT(IROS 2020)](https://github.com/xinshuoweng/AB3DMOT) | A baseline method for 3DMOT with new metrics. | Python | [github](https://github.com/xinshuoweng/AB3DMOT) | ![](https://img.shields.io/github/stars/xinshuoweng/AB3DMOT.svg?style=social&label=Star&maxAge=2592000)|
 | [CenterPoint(2020)](https://github.com/tianweiy/CenterPoint) | 3D Object Detection and Tracking using center points in the bird-eye view. | Python | [github](https://github.com/tianweiy/CenterPoint) | ![](https://img.shields.io/github/stars/tianweiy/CenterPoint.svg?style=social&label=Star&maxAge=2592000)|
+| [DeepFusionMOT(2022)](https://github.com/wangxiyang2022/DeepFusionMOT) | 2D/3D Object Tracking using deep association to achieve higher HOTA, AssA, and lower IDSW. | Python | [github](https://github.com/wangxiyang2022/DeepFusionMOT) | ![](https://img.shields.io/github/stars/wangxiyang2022/DeepFusionMOT.svg?style=social&label=Star&maxAge=2592000)|
+
 
 ## [Datasets](#datasets)
 
@@ -38,6 +40,7 @@ A curated list of awesome 3DMOT code and resources.
 ## [Other Awesome Lists](#awesome-3d-multi-object-tracking)
 
 * [Awesome 3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
+* [Awesome Multiple object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking)
 
 ## [Contributing](#awesome-3d-multi-object-tracking)
 
